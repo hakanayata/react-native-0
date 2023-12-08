@@ -7,7 +7,7 @@ This project covers the following topics:
 - Create an Expo App
 - Break down the app layout and implement it with flexbox
 - Use each platform's system UI to select an image from the media library
-- Create a sticker modal using the <Modal> and <FlatList> components from React Native
+- Create a sticker modal using the `<Modal>` and `<FlatList>` components from React Native
 - Add touch gestures to interact with a sticker
 - Use third-party libraries to capture a screenshot and save it to the disk
 - Handle platform differences between Android, iOS, and web
